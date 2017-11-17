@@ -1,0 +1,46 @@
+/* Developers CSS changes */
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Cinzel', serif;
+		letter-spacing: 1.2px;
+		font-size: 70px;
+}
+
+body, p, blockquote, li {
+  font-family: 'PT Serif', serif ;
+}
+
+#masthead {
+	background-color: rgba(25, 52, 65, 0.7);
+}
+
+.link-more > a {
+	background-color: rgb(209, 219, 189);
+	color: rgb(145, 145, 145);
+}
+
+.link-more a:hover{
+	background-color: rgb(209, 219, 189);
+	color: rgb(145, 145, 145);
+}
+
+h1, .entry-title {
+	font-weight: bold !important;
+}
+
+body, p {
+	letter-spacing: 1.4px;
+	color: black;
+}
+
+h1 {
+    text-shadow: 2px 2px gray;
+}
+
+body, .post, .site-inner {
+	background-color: #ABBACC !important;
+}
+
+span {
+	color: black !important;
+}
